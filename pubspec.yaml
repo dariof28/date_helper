@@ -1,6 +1,6 @@
 name: date_helper
 description: Provide a set of utils and helper methods to deal with dates
-version: 0.1.0
+version: 1.0.0
 repository: https://github.com/dariof28/date_helper
 
 environment:
